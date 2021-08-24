@@ -1,0 +1,6 @@
+{
+    "app": {
+        "port": 3010,
+        "secret_key": "text"
+    }
+}
